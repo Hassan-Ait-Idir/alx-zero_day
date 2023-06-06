@@ -1,0 +1,13 @@
+git add .
+git commit -m
+git push
+git pull origin
+cd
+touch
+ls
+cd
+mkdir
+rm
+mv
+cp
+ls -l
